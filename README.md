@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LUFFY-KingofCoder&label=Profile%20views&color=0e75b6&style=flat" alt="LUFFY-KingofCoder" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning Neural Networks, Django, and working on exciting projects in the AI/ML space.<br>💬 Ask me about Python and Supervised Learning.<br>📫 How to reach me: sg2623@srmist.edu.in | shahankghs999@gmail.com
+🌱 I’m currently learning Neural Networks, Django, and working on exciting projects in the AI/ML space.<br>💬 Ask me about Python and Supervised Learning.<br>📫 How to reach me: sg2623@srmist.edu.in | shashankghs999@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-ghosh-915b14169)
